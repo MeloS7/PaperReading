@@ -5,3 +5,4 @@
     - Translation
     - Graph-to-Text
     - Cross-Modal Alignment
+    - LLM-as-a-Judge
