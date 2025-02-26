@@ -20,6 +20,6 @@
 - Pairwise: (This paper propses:)
     - Do double evaluation with the inversed order: S(T1, T2) and then S(T2, T1).
     
-    - PRP-ALLpair: $S_i = 1\cdot \sum_{j\neq i}\mathbb{I}_{d_i\gt d_j}+0.5\sum_{j\neq i}\texttt{I}_{d_i=d_j}$
+    - PRP-ALLpair: $S_i = 1\cdot \sum_{j \neq i}\mathbb{I}_{d_i \gt d_j}+0.5\sum_{j \neq i}\mathbb{I}_{d_i \eq d_j}$
     
       
